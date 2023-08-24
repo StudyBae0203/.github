@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## 안녕하세요 🤗
+이 Organization은 개인 공부 용으로 만든 Organization 입니다.<br/>
+typescript 및 react, next.js를 더욱 깊게 공부해보도록 하겠습니다. 😊
 <!--
 
 **Here are some ideas to get you started:**
